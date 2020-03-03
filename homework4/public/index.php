@@ -23,6 +23,9 @@ switch ($page) {
         break;
 
     case 'gallery':
+        if ($_POST["send"]) {
+            $params["error"] = loadImage();
+        }
         $params["images"] = getContent("img");
         break;
 }

@@ -34,8 +34,3 @@ function renderTemplate($page, $params = [])
 
     return ob_get_clean();
 }
-
-//Функция возвращает массив, состоящий из имен содержимого папки, передаваемой в параметре
-function getContent($dir) {
-    return array_slice(scandir($dir), 2);
-}

@@ -8,4 +8,7 @@
     <h5>Загрузите свои изображения</h5>
     <input type="file" name="myfile[]" multiple>
     <input type="submit" class="button" name="send">
+  <?php if ($error): ?>
+  <p><?=$error?></p>
+  <?php endif; ?>
 </form>
