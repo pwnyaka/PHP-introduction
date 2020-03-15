@@ -54,6 +54,8 @@ define("INIT_CATALOG", [
 include ROOT . "/engine/functions.php";
 include ROOT . "/engine/basket.php";
 include ROOT . "/engine/log.php";
+include ROOT . "/engine/auth.php";
+include ROOT . "/engine/orders.php";
 include ROOT . "/engine/catalog.php";
 include ROOT . "/engine/db.php";
 include ROOT . "/engine/feedback.php";

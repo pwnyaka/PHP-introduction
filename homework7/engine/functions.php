@@ -7,16 +7,13 @@
 //переменную $content главного шаблона layout для всех страниц
 function render($page, $params = [])
 {
-    if ($page == 'add') {
-        return renderTemplate($page, $params);
-    } else {
         return renderTemplate(LAYOUTS_DIR . 'main',
             [
                 'menu' => renderTemplate('menu', $params),
                 'content' => renderTemplate($page, $params)
             ]
         );
-    }
+
 }
 
 //Функция возвращает текст шаблона $page с подставленными переменными из
@@ -46,7 +43,106 @@ function prepareVariables($page, $action) {
 
         case 'index':
             initDb();
-            $params['name'] = 'Уважаемый гость';
+            $params['user'] = 'Уважаемый гость';
+            break;
+
+        case 'auth':
+            if ($action == "login") {
+
+                if (isset($_POST['send'])) {
+                    $login = $_POST['login'];
+                    $pass = $_POST['pass'];
+                    if (!auth($login, $pass)) {
+                        Die('Не верный логин пароль');
+                    } else {
+                        if (isset($_POST['save'])) {
+                            updateHash();
+                        }
+                        header("Location:" . $_SERVER['HTTP_REFERER']);
+                    }
+                }
+            }
+
+            if ($action == "logout") {
+                session_destroy();
+                setcookie("hash", "", time() - 36000, '/');
+                header("Location: /");
+
+            }
+            break;
+
+        case 'admin':
+            if (!is_admin()) Die('Нет прав!');
+            $params['orders'] = getOrders();
+            for ($i = 0; $i < count($params['orders']); $i++) {
+                switch ($params['orders'][$i]['status']) {
+                    case 0:
+                        $params['orders'][$i]['statusText'] = 'Новый';
+                        break;
+                    case 1:
+                        $params['orders'][$i]['statusText'] = 'В работе';
+                        break;
+                    case 2:
+                        $params['orders'][$i]['statusText'] = 'Оплачен';
+                        break;
+                    case 3:
+                        $params['orders'][$i]['statusText'] = 'Выполнен';
+                        break;
+                }
+            }
+            break;
+
+        case 'detail':
+            if (!is_admin()) Die('Нет прав!');
+            $params['basket'] = getOrderDetail($_GET['id']);
+            break;
+
+        case 'api':
+            if ($action == 'buy') {
+                $postData = file_get_contents('php://input');
+                $data = json_decode($postData, true);
+                addProduct($data["id"]);
+                echo json_encode(["count" => getBasketCount()]);
+                die();
+            } elseif ($action == 'delete') {
+                $postData = file_get_contents('php://input');
+                $data = json_decode($postData, true);
+                deleteProduct($data["id"]);
+                echo json_encode(["count" => getBasketCount(), "basketSum" => getBasketSum(), "productSum" => getProductSum($data["id"]),
+                    "id" => $data["id"]]);
+                die();
+            } elseif ($action == 'accept') {
+                if (!is_admin()) Die('Нет прав!');
+                $postData = file_get_contents('php://input');
+                $data = json_decode($postData, true);
+                acceptOrder($data["id"]);
+                echo json_encode(["result" => 1]);
+                die();
+            }
+            break;
+
+        case 'my-orders':
+            $params['userOrders'] = getUserOrders();
+            $params['userOrdersDetails'] = getUserOrdersDetails();
+            for ($i = 0; $i < count($params['userOrders']); $i++) {
+                switch ($params['userOrders'][$i]['status']) {
+                    case 0:
+                        $params['userOrders'][$i]['statusText'] = 'Ожидает обработки';
+                        break;
+                    case 1:
+                        $params['userOrders'][$i]['statusText'] = 'Принят';
+                        break;
+                    case 2:
+                        $params['userOrders'][$i]['statusText'] = 'Оплачен';
+                        break;
+                    case 3:
+                        $params['userOrders'][$i]['statusText'] = 'Завершен';
+                        break;
+                }
+            }
+
+        case 'users':
+            $params["users"] = getUsers();
             break;
 
         case 'product':
@@ -62,24 +158,19 @@ function prepareVariables($page, $action) {
             break;
 
         case 'basket':
+            switch ($_GET["message"]) {
+                case 'OK':
+                    $params["message"] = "Благодарим за оформление заказа!";
+                    break;
+
+                case 'error':
+                    $params["message"] = "При оформлении заказа произошла ошибка!";
+                    break;
+            }
             $params["basketSum"] = getBasketSum();
             $params["basket"] = getBasket();
-            break;
-
-        case 'api':
-            if ($action == 'buy') {
-                $postData = file_get_contents('php://input');
-                $data = json_decode($postData, true);
-                addProduct($data["id"]);
-                echo json_encode(["count" => getBasketCount()]);
-                die();
-            } elseif ($action = 'delete') {
-                $postData = file_get_contents('php://input');
-                $data = json_decode($postData, true);
-                deleteProduct($data["id"]);
-                echo json_encode(["count" => getBasketCount(), "basketSum" => getBasketSum(), "productSum" => getProductSum($data["id"]),
-                    "id" => $data["id"]]);
-                die();
+            if ($action == 'addorder') {
+                makeOrder();
             }
             break;
 
@@ -91,8 +182,8 @@ function prepareVariables($page, $action) {
             break;
 
         case 'api_calc':
-            $params = doOperation();
-            echo json_encode($params);
+            $params["result"] = doOperation();
+            echo json_encode($params["result"]);
             die();
 
         case 'calculator':

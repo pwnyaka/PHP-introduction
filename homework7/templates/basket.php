@@ -12,7 +12,7 @@
     <?php foreach ($basket as $item):?>
   <div class="cart-product" id="<?=$item["basket_id"]?>">
     <div class="cart-product-wrapper">
-      <img style="width: 300px;" src="img/<?=$item["imgName"]?>" alt="">
+      <img style="width: 200px;" src="img/<?=$item["imgName"]?>" alt="">
       <span><?=$item["prodName"]?></span>
     </div>
     <div class="cart-description"><?=$item["description"]?></div>
@@ -23,5 +23,13 @@
   </div>
     <?php endforeach; ?>
   <span>ОБЩАЯ СТОИМОСТЬ (всего лишь) <span class="total-sum"><?=$basketSum?></span>  RUB</span>
+  <hr>
+  <p>Оформить заказ:</p>
+  <form action="/basket/addorder/" method="post">
+    <input required type="text" name="name" placeholder="Имя">
+    <input required type="text" name="phone" placeholder="Телефон">
+    <input type="submit" value="Оформить заказ">
+    <?=$message?>
+  </form>
 </div>
 <script src="js/basket.js"></script>

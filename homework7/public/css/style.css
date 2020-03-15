@@ -278,6 +278,7 @@ hr {
     width: 1140px;
     border: 2px solid white;
     margin: 0 auto;
+    padding: 20px;
 }
 
 .cart-product {
@@ -297,6 +298,29 @@ hr {
     width: 500px;
 }
 
+.order {
+    margin: 20px auto;
+    border: 2px solid white;
+    width: 1140px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.detail-btn {
+    margin-left: 20px;
+}
+
+.order ol {
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.order_details__product {
+    margin-top: 20px;
+}
+.hidden {
+    display: none;
+}
 
 
 
