@@ -78551,3 +78551,3796 @@ Array
 
 
 
+### 15.03.2020 17:02:29
+Array
+(
+    [count] => 
+    [user] => Уважаемый гость
+)
+
+
+
+### 15.03.2020 17:02:30
+Array
+(
+    [count] => 
+    [user] => Уважаемый гость
+)
+
+
+
+### 15.03.2020 17:02:30
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:03:30
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:06:13
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:07:48
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:08:04
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:08:06
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:12:48
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:14:16
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:14:52
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:15:14
+Array
+(
+    [count] => 
+)
+
+
+
+### 15.03.2020 17:18:24
+Array
+(
+    [count] => 
+)
+
+
+
+### 21.03.2020 14:30:35
+Array
+(
+    [count] => 
+    [user] => Уважаемый гость
+)
+
+
+
+### 21.03.2020 14:30:36
+Array
+(
+    [count] => 
+)
+
+
+
+### 21.03.2020 14:30:50
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => user1
+)
+
+
+
+### 21.03.2020 14:30:51
+Array
+(
+    [count] => 
+    [user] => user1
+    [auth] => 1
+)
+
+
+
+### 21.03.2020 14:30:51
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => user1
+)
+
+
+
+### 21.03.2020 14:30:54
+Array
+(
+    [count] => 
+    [userOrders] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 7
+                    [name] => Алексей
+                    [phone] => 98765
+                    [session_id] => 95otpmps39id221eff6tdt1l3cstd488
+                    [status] => 0
+                    [login] => user1
+                    [statusText] => Ожидает обработки
+                )
+
+            [1] => Array
+                (
+                    [id] => 8
+                    [name] => Алексей
+                    [phone] => 555444
+                    [session_id] => sd52k86th11hlqq1hsao898u30hdaavd
+                    [status] => 1
+                    [login] => user1
+                    [statusText] => Принят
+                )
+
+            [2] => Array
+                (
+                    [id] => 9
+                    [name] => Алекс
+                    [phone] => 12345
+                    [session_id] => t3vemvjf8ck8oncjoepulqp57e9j6ao8
+                    [status] => 0
+                    [login] => user1
+                    [statusText] => Ожидает обработки
+                )
+
+        )
+
+    [userOrdersDetails] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 7
+                    [quantity] => 5
+                    [prodName] => KIA K900
+                )
+
+            [1] => Array
+                (
+                    [id] => 7
+                    [quantity] => 1
+                    [prodName] => Audi A8
+                )
+
+            [2] => Array
+                (
+                    [id] => 7
+                    [quantity] => 1
+                    [prodName] => BMW 7 series
+                )
+
+            [3] => Array
+                (
+                    [id] => 7
+                    [quantity] => 1
+                    [prodName] => Mercedes-Benz S class
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [quantity] => 1
+                    [prodName] => Audi A8
+                )
+
+            [5] => Array
+                (
+                    [id] => 8
+                    [quantity] => 1
+                    [prodName] => BMW 7 series
+                )
+
+            [6] => Array
+                (
+                    [id] => 8
+                    [quantity] => 1
+                    [prodName] => Mercedes-Benz S class
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [quantity] => 1
+                    [prodName] => KIA K900
+                )
+
+            [8] => Array
+                (
+                    [id] => 8
+                    [quantity] => 1
+                    [prodName] => Hyundai Genesis G90
+                )
+
+            [9] => Array
+                (
+                    [id] => 9
+                    [quantity] => 3
+                    [prodName] => BMW 7 series
+                )
+
+        )
+
+    [auth] => 1
+    [user] => user1
+)
+
+
+
+### 21.03.2020 14:30:54
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => user1
+)
+
+
+
+### 21.03.2020 14:37:14
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => user1
+)
+
+
+
+### 21.03.2020 14:37:14
+Array
+(
+    [count] => 
+    [user] => Уважаемый гость
+)
+
+
+
+### 21.03.2020 14:37:14
+Array
+(
+    [count] => 
+)
+
+
+
+### 21.03.2020 14:37:17
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:37:17
+Array
+(
+    [count] => 
+    [user] => admin
+    [auth] => 1
+)
+
+
+
+### 21.03.2020 14:37:17
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:37:18
+Array
+(
+    [count] => 
+    [orders] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => qwerty
+                    [phone] => 12345
+                    [session_id] => 63ooiufuvoemg8g7ses1i2a4vmsiflt1
+                    [status] => 1
+                    [login] => 
+                    [statusText] => В работе
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => aaa
+                    [phone] => 111
+                    [session_id] => 7bqc2gcgg1ledrola2vs88196qrlmjf4
+                    [status] => 1
+                    [login] => 
+                    [statusText] => В работе
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Вася
+                    [phone] => 777
+                    [session_id] => alsni85kmt48khp1usl2n3c20o4tg2vn
+                    [status] => 3
+                    [login] => 
+                    [statusText] => Выполнен
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Маша
+                    [phone] => 12345
+                    [session_id] => lci4gvie4skmcm06k4ri1kdcnnoe5jr4
+                    [status] => 1
+                    [login] => 
+                    [statusText] => В работе
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [name] => aaa
+                    [phone] => 777
+                    [session_id] => i7bts9c9o1eic74deqoq11v512lo0231
+                    [status] => 1
+                    [login] => user2
+                    [statusText] => В работе
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [name] => aaa
+                    [phone] => 777
+                    [session_id] => qg6p9d471ahgh90unmspkjh38k3dmem4
+                    [status] => 0
+                    [login] => user2
+                    [statusText] => Новый
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [name] => Алексей
+                    [phone] => 98765
+                    [session_id] => 95otpmps39id221eff6tdt1l3cstd488
+                    [status] => 0
+                    [login] => user1
+                    [statusText] => Новый
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [name] => Алексей
+                    [phone] => 555444
+                    [session_id] => sd52k86th11hlqq1hsao898u30hdaavd
+                    [status] => 1
+                    [login] => user1
+                    [statusText] => В работе
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [name] => Алекс
+                    [phone] => 12345
+                    [session_id] => t3vemvjf8ck8oncjoepulqp57e9j6ao8
+                    [status] => 0
+                    [login] => user1
+                    [statusText] => Новый
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:37:18
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:37:20
+Array
+(
+    [count] => 
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [session_id] => 63ooiufuvoemg8g7ses1i2a4vmsiflt1
+                    [quantity] => 1
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                )
+
+            [1] => Array
+                (
+                    [session_id] => 63ooiufuvoemg8g7ses1i2a4vmsiflt1
+                    [quantity] => 1
+                    [good_id] => 2
+                    [prodName] => Mercedes-Benz S class
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:37:20
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:39:56
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:39:56
+Array
+(
+    [count] => 
+    [user] => Уважаемый гость
+)
+
+
+
+### 21.03.2020 14:39:57
+Array
+(
+    [count] => 
+)
+
+
+
+### 21.03.2020 14:39:57
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+)
+
+
+
+### 21.03.2020 14:39:58
+Array
+(
+    [count] => 
+)
+
+
+
+### 21.03.2020 14:40:01
+Array
+(
+    [count] => 4
+    [basketSum] => 32500200
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 2
+                    [basket_id] => 109
+                    [imgName] => 03.jpg
+                    [good_id] => 3
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                    [cost] => 8070100
+                )
+
+            [1] => Array
+                (
+                    [quantity] => 2
+                    [basket_id] => 110
+                    [imgName] => 01.jpg
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                    [cost] => 8180000
+                )
+
+        )
+
+)
+
+
+
+### 21.03.2020 14:40:01
+Array
+(
+    [count] => 4
+)
+
+
+
+### 21.03.2020 14:45:43
+Array
+(
+    [count] => 4
+    [basketSum] => 32500200
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 2
+                    [basket_id] => 109
+                    [imgName] => 03.jpg
+                    [good_id] => 3
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                    [cost] => 8070100
+                )
+
+            [1] => Array
+                (
+                    [quantity] => 2
+                    [basket_id] => 110
+                    [imgName] => 01.jpg
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                    [cost] => 8180000
+                )
+
+        )
+
+)
+
+
+
+### 21.03.2020 14:45:43
+Array
+(
+    [count] => 4
+)
+
+
+
+### 21.03.2020 14:45:55
+Array
+(
+    [count] => 4
+    [basketSum] => 32500200
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 2
+                    [basket_id] => 109
+                    [imgName] => 03.jpg
+                    [good_id] => 3
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                    [cost] => 8070100
+                )
+
+            [1] => Array
+                (
+                    [quantity] => 2
+                    [basket_id] => 110
+                    [imgName] => 01.jpg
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                    [cost] => 8180000
+                )
+
+        )
+
+)
+
+
+
+### 21.03.2020 14:45:55
+Array
+(
+    [count] => 
+    [message] => Благодарим за оформление заказа!
+    [basketSum] => 
+    [basket] => Array
+        (
+        )
+
+)
+
+
+
+### 21.03.2020 14:45:56
+Array
+(
+    [count] => 
+    [basketSum] => 
+    [basket] => Array
+        (
+        )
+
+)
+
+
+
+### 21.03.2020 14:45:56
+Array
+(
+    [count] => 
+)
+
+
+
+### 21.03.2020 14:46:17
+Array
+(
+    [count] => 
+    [action] => add
+    [buttonText] => Отправить отзыв
+    [message] => 
+    [feedback] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 31
+                    [name] => Джереми Кларксон
+                    [feedback] => Oh My God! I never see anything like it! Amazing, best idea!!!
+                )
+
+            [1] => Array
+                (
+                    [id] => 3
+                    [name] => Иван
+                    [feedback] => Компетентные менеджеры, сервис - огонь! 5+
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [name] => Петя
+                    [feedback] => Широчайший ассортимент автомобилей, все в одном месте, супер!
+                )
+
+            [3] => Array
+                (
+                    [id] => 1
+                    [name] => Машка
+                    [feedback] => Считаю ваш магазин лучшим прелучшим во всем мире :***
+                )
+
+        )
+
+)
+
+
+
+### 21.03.2020 14:46:17
+Array
+(
+    [count] => 
+)
+
+
+
+### 21.03.2020 14:46:18
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+)
+
+
+
+### 21.03.2020 14:46:18
+Array
+(
+    [count] => 
+)
+
+
+
+### 21.03.2020 14:46:22
+Array
+(
+    [count] => 4
+    [basketSum] => 25701800
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 111
+                    [imgName] => 01.jpg
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                    [cost] => 8180000
+                )
+
+            [1] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 112
+                    [imgName] => 02.jpg
+                    [good_id] => 2
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                    [cost] => 8670300
+                )
+
+            [2] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 113
+                    [imgName] => 05.jpg
+                    [good_id] => 5
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                    [cost] => 4200700
+                )
+
+            [3] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 114
+                    [imgName] => 04.jpg
+                    [good_id] => 4
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                    [cost] => 4650800
+                )
+
+        )
+
+)
+
+
+
+### 21.03.2020 14:46:23
+Array
+(
+    [count] => 4
+)
+
+
+
+### 21.03.2020 14:46:32
+Array
+(
+    [count] => 4
+    [basketSum] => 25701800
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 111
+                    [imgName] => 01.jpg
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                    [cost] => 8180000
+                )
+
+            [1] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 112
+                    [imgName] => 02.jpg
+                    [good_id] => 2
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                    [cost] => 8670300
+                )
+
+            [2] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 113
+                    [imgName] => 05.jpg
+                    [good_id] => 5
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                    [cost] => 4200700
+                )
+
+            [3] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 114
+                    [imgName] => 04.jpg
+                    [good_id] => 4
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                    [cost] => 4650800
+                )
+
+        )
+
+)
+
+
+
+### 21.03.2020 14:46:32
+Array
+(
+    [count] => 
+    [message] => Благодарим за оформление заказа!
+    [basketSum] => 
+    [basket] => Array
+        (
+        )
+
+)
+
+
+
+### 21.03.2020 14:46:32
+Array
+(
+    [count] => 
+    [basketSum] => 
+    [basket] => Array
+        (
+        )
+
+)
+
+
+
+### 21.03.2020 14:46:32
+Array
+(
+    [count] => 
+)
+
+
+
+### 21.03.2020 14:50:43
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:50:43
+Array
+(
+    [count] => 
+    [message] => Благодарим за оформление заказа!
+    [basketSum] => 
+    [basket] => Array
+        (
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:50:44
+Array
+(
+    [count] => 
+    [basketSum] => 
+    [basket] => Array
+        (
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:50:44
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:50:44
+Array
+(
+    [count] => 
+    [orders] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => qwerty
+                    [phone] => 12345
+                    [session_id] => 63ooiufuvoemg8g7ses1i2a4vmsiflt1
+                    [status] => 1
+                    [login] => 
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => aaa
+                    [phone] => 111
+                    [session_id] => 7bqc2gcgg1ledrola2vs88196qrlmjf4
+                    [status] => 1
+                    [login] => 
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Вася
+                    [phone] => 777
+                    [session_id] => alsni85kmt48khp1usl2n3c20o4tg2vn
+                    [status] => 3
+                    [login] => 
+                    [sum] => 
+                    [statusText] => Выполнен
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Маша
+                    [phone] => 12345
+                    [session_id] => lci4gvie4skmcm06k4ri1kdcnnoe5jr4
+                    [status] => 1
+                    [login] => 
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [name] => aaa
+                    [phone] => 777
+                    [session_id] => i7bts9c9o1eic74deqoq11v512lo0231
+                    [status] => 1
+                    [login] => user2
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [name] => aaa
+                    [phone] => 777
+                    [session_id] => qg6p9d471ahgh90unmspkjh38k3dmem4
+                    [status] => 0
+                    [login] => user2
+                    [sum] => 
+                    [statusText] => Новый
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [name] => Алексей
+                    [phone] => 98765
+                    [session_id] => 95otpmps39id221eff6tdt1l3cstd488
+                    [status] => 0
+                    [login] => user1
+                    [sum] => 
+                    [statusText] => Новый
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [name] => Алексей
+                    [phone] => 555444
+                    [session_id] => sd52k86th11hlqq1hsao898u30hdaavd
+                    [status] => 1
+                    [login] => user1
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [name] => Алекс
+                    [phone] => 12345
+                    [session_id] => t3vemvjf8ck8oncjoepulqp57e9j6ao8
+                    [status] => 0
+                    [login] => user1
+                    [sum] => 
+                    [statusText] => Новый
+                )
+
+            [9] => Array
+                (
+                    [id] => 1000
+                    [name] => Vasya
+                    [phone] => 123890
+                    [session_id] => dli08jabt6q5al52cpju251q8acgueof
+                    [status] => 0
+                    [login] => 
+                    [sum] => 32500200
+                    [statusText] => Новый
+                )
+
+            [10] => Array
+                (
+                    [id] => 1001
+                    [name] => Маша
+                    [phone] => 456
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [status] => 0
+                    [login] => 
+                    [sum] => 25701800
+                    [statusText] => Новый
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:50:45
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:50:56
+Array
+(
+    [count] => 
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                )
+
+            [1] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 2
+                    [prodName] => Mercedes-Benz S class
+                )
+
+            [2] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 5
+                    [prodName] => KIA K900
+                )
+
+            [3] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 4
+                    [prodName] => Hyundai Genesis G90
+                )
+
+        )
+
+    [sum] => Array
+        (
+            [0] => Array
+                (
+                    [sum] => 25701800
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:50:56
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:30
+Array
+(
+    [count] => 
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                )
+
+            [1] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 2
+                    [prodName] => Mercedes-Benz S class
+                )
+
+            [2] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 5
+                    [prodName] => KIA K900
+                )
+
+            [3] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 4
+                    [prodName] => Hyundai Genesis G90
+                )
+
+        )
+
+    [sum] => Array
+        (
+            [sum] => 25701800
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:30
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:43
+Array
+(
+    [count] => 
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                )
+
+            [1] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 2
+                    [prodName] => Mercedes-Benz S class
+                )
+
+            [2] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 5
+                    [prodName] => KIA K900
+                )
+
+            [3] => Array
+                (
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [quantity] => 1
+                    [good_id] => 4
+                    [prodName] => Hyundai Genesis G90
+                )
+
+        )
+
+    [sum] => 25701800
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:44
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:47
+Array
+(
+    [count] => 
+    [orders] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => qwerty
+                    [phone] => 12345
+                    [session_id] => 63ooiufuvoemg8g7ses1i2a4vmsiflt1
+                    [status] => 1
+                    [login] => 
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => aaa
+                    [phone] => 111
+                    [session_id] => 7bqc2gcgg1ledrola2vs88196qrlmjf4
+                    [status] => 1
+                    [login] => 
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Вася
+                    [phone] => 777
+                    [session_id] => alsni85kmt48khp1usl2n3c20o4tg2vn
+                    [status] => 3
+                    [login] => 
+                    [sum] => 
+                    [statusText] => Выполнен
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Маша
+                    [phone] => 12345
+                    [session_id] => lci4gvie4skmcm06k4ri1kdcnnoe5jr4
+                    [status] => 1
+                    [login] => 
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [name] => aaa
+                    [phone] => 777
+                    [session_id] => i7bts9c9o1eic74deqoq11v512lo0231
+                    [status] => 1
+                    [login] => user2
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [name] => aaa
+                    [phone] => 777
+                    [session_id] => qg6p9d471ahgh90unmspkjh38k3dmem4
+                    [status] => 0
+                    [login] => user2
+                    [sum] => 
+                    [statusText] => Новый
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [name] => Алексей
+                    [phone] => 98765
+                    [session_id] => 95otpmps39id221eff6tdt1l3cstd488
+                    [status] => 0
+                    [login] => user1
+                    [sum] => 
+                    [statusText] => Новый
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [name] => Алексей
+                    [phone] => 555444
+                    [session_id] => sd52k86th11hlqq1hsao898u30hdaavd
+                    [status] => 1
+                    [login] => user1
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [name] => Алекс
+                    [phone] => 12345
+                    [session_id] => t3vemvjf8ck8oncjoepulqp57e9j6ao8
+                    [status] => 0
+                    [login] => user1
+                    [sum] => 
+                    [statusText] => Новый
+                )
+
+            [9] => Array
+                (
+                    [id] => 1000
+                    [name] => Vasya
+                    [phone] => 123890
+                    [session_id] => dli08jabt6q5al52cpju251q8acgueof
+                    [status] => 0
+                    [login] => 
+                    [sum] => 32500200
+                    [statusText] => Новый
+                )
+
+            [10] => Array
+                (
+                    [id] => 1001
+                    [name] => Маша
+                    [phone] => 456
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [status] => 0
+                    [login] => 
+                    [sum] => 25701800
+                    [statusText] => Новый
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:48
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:49
+Array
+(
+    [count] => 
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [session_id] => dli08jabt6q5al52cpju251q8acgueof
+                    [quantity] => 2
+                    [good_id] => 3
+                    [prodName] => Audi A8
+                )
+
+            [1] => Array
+                (
+                    [session_id] => dli08jabt6q5al52cpju251q8acgueof
+                    [quantity] => 2
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                )
+
+        )
+
+    [sum] => 32500200
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:49
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:56
+Array
+(
+    [count] => 
+    [orders] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => qwerty
+                    [phone] => 12345
+                    [session_id] => 63ooiufuvoemg8g7ses1i2a4vmsiflt1
+                    [status] => 1
+                    [login] => 
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => aaa
+                    [phone] => 111
+                    [session_id] => 7bqc2gcgg1ledrola2vs88196qrlmjf4
+                    [status] => 1
+                    [login] => 
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => Вася
+                    [phone] => 777
+                    [session_id] => alsni85kmt48khp1usl2n3c20o4tg2vn
+                    [status] => 3
+                    [login] => 
+                    [sum] => 
+                    [statusText] => Выполнен
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => Маша
+                    [phone] => 12345
+                    [session_id] => lci4gvie4skmcm06k4ri1kdcnnoe5jr4
+                    [status] => 1
+                    [login] => 
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [name] => aaa
+                    [phone] => 777
+                    [session_id] => i7bts9c9o1eic74deqoq11v512lo0231
+                    [status] => 1
+                    [login] => user2
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [name] => aaa
+                    [phone] => 777
+                    [session_id] => qg6p9d471ahgh90unmspkjh38k3dmem4
+                    [status] => 0
+                    [login] => user2
+                    [sum] => 
+                    [statusText] => Новый
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [name] => Алексей
+                    [phone] => 98765
+                    [session_id] => 95otpmps39id221eff6tdt1l3cstd488
+                    [status] => 0
+                    [login] => user1
+                    [sum] => 
+                    [statusText] => Новый
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [name] => Алексей
+                    [phone] => 555444
+                    [session_id] => sd52k86th11hlqq1hsao898u30hdaavd
+                    [status] => 1
+                    [login] => user1
+                    [sum] => 
+                    [statusText] => В работе
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [name] => Алекс
+                    [phone] => 12345
+                    [session_id] => t3vemvjf8ck8oncjoepulqp57e9j6ao8
+                    [status] => 0
+                    [login] => user1
+                    [sum] => 
+                    [statusText] => Новый
+                )
+
+            [9] => Array
+                (
+                    [id] => 1000
+                    [name] => Vasya
+                    [phone] => 123890
+                    [session_id] => dli08jabt6q5al52cpju251q8acgueof
+                    [status] => 0
+                    [login] => 
+                    [sum] => 32500200
+                    [statusText] => Новый
+                )
+
+            [10] => Array
+                (
+                    [id] => 1001
+                    [name] => Маша
+                    [phone] => 456
+                    [session_id] => vc79ltiiq10gnm9tlgrfe4hsa0krfgkf
+                    [status] => 0
+                    [login] => 
+                    [sum] => 25701800
+                    [statusText] => Новый
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:51:57
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:52:30
+Array
+(
+    [count] => 
+    [user] => admin
+    [auth] => 1
+)
+
+
+
+### 21.03.2020 14:52:30
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:52:36
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:52:36
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:54:54
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:54:55
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:54:56
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:54:57
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:54:59
+Array
+(
+    [count] => 2
+    [basketSum] => 16360000
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 2
+                    [basket_id] => 115
+                    [imgName] => 01.jpg
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                    [cost] => 8180000
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:54:59
+Array
+(
+    [count] => 2
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:08
+Array
+(
+    [count] => 2
+    [basketSum] => 16360000
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 2
+                    [basket_id] => 115
+                    [imgName] => 01.jpg
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                    [cost] => 8180000
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:08
+Array
+(
+    [count] => 
+    [message] => Благодарим за оформление заказа!
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:08
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:08
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:08
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:08
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:08
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:08
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:08
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:40
+Array
+(
+    [count] => 
+    [basketSum] => 
+    [basket] => Array
+        (
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:41
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:53
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:55:53
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:13
+Array
+(
+    [count] => 1
+    [basketSum] => 8180000
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 116
+                    [imgName] => 01.jpg
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                    [cost] => 8180000
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:13
+Array
+(
+    [count] => 1
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:16
+Array
+(
+    [count] => 1
+    [basketSum] => 8180000
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 1
+                    [basket_id] => 116
+                    [imgName] => 01.jpg
+                    [good_id] => 1
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                    [cost] => 8180000
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:16
+Array
+(
+    [count] => 
+    [message] => Благодарим за оформление заказа!
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:16
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:16
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:16
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:16
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:16
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:16
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 22
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:16
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:19
+Array
+(
+    [count] => 
+    [product] => Array
+        (
+            [id] => 3
+            [imgName] => 03.jpg
+            [views] => 23
+            [cost] => 8070100
+            [prodName] => Audi A8
+            [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:19
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:53
+Array
+(
+    [count] => 
+    [message] => Благодарим за оформление заказа!
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 23
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:53
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 23
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:56:55
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:57:09
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 23
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 0
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:57:10
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:57:17
+Array
+(
+    [count] => 
+    [product] => Array
+        (
+            [id] => 4
+            [imgName] => 04.jpg
+            [views] => 1
+            [cost] => 4650800
+            [prodName] => Hyundai Genesis G90
+            [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:57:18
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:57:20
+Array
+(
+    [count] => 
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [imgName] => 03.jpg
+                    [views] => 23
+                    [cost] => 8070100
+                    [prodName] => Audi A8
+                    [description] => Audi A8 четвертого поколения дебютировал в июле 2017 года, а в феврале 2018-го седан добрался
+         до России. Автомобиль построен на новой платформе и получил множество современных опций.
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [imgName] => 01.jpg
+                    [views] => 20
+                    [cost] => 8180000
+                    [prodName] => BMW 7 series
+                    [description] => В этой серии некоторые детали ходовой части изготовлены из алюминия, это позволило добиться
+         большей точности рулевого управления. В передней части появился новый выступ на капоте, а сзади машины
+          установлена новая хромированная планка. По сравнению с более ранними моделями в этой серии также изменились
+           передние и задние фары и фартуки.
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [imgName] => 02.jpg
+                    [views] => 8
+                    [cost] => 8670300
+                    [prodName] => Mercedes-Benz S class
+                    [description] => Mercedes-Benz S-класс — флагманская серия представительских автомобилей немецкой компании
+         Mercedes-Benz, дочернего подразделения концерна Daimler AG. Представляет собой наиболее значимую линейку
+          моделей в иерархии классов торговой марки.
+                )
+
+            [3] => Array
+                (
+                    [id] => 5
+                    [imgName] => 05.jpg
+                    [views] => 4
+                    [cost] => 4200700
+                    [prodName] => KIA K900
+                    [description] => Сбалансированный, энергичный, солидный и при этом совсем не скучный. Новый повод для чьей-то
+         зависти? Новое представление о роскоши! Впечатляющий дизайн интерьера, скульптурные линии кузова, умные
+          технологии и убедительная динамика. KIA K900 — эталон роскошного седана.
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [imgName] => 04.jpg
+                    [views] => 1
+                    [cost] => 4650800
+                    [prodName] => Hyundai Genesis G90
+                    [description] => Автомобиль, пришедший на смену лимузину Hyundai Equus, воплотил в себе дизайнерскую концепцию
+         «Athletic Elegance» («Атлетичная элегантность»), «прописал» под своим капотом мощные моторы и получил богатый
+          функционал, ничем не уступающий именитым конкурентам.
+                )
+
+        )
+
+    [auth] => 1
+    [user] => admin
+)
+
+
+
+### 21.03.2020 14:57:20
+Array
+(
+    [count] => 
+    [auth] => 1
+    [user] => admin
+)
+
+
+

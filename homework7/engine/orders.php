@@ -16,19 +16,21 @@ function makeOrder() {
     $db = getDb();
     $name = strip_tags(htmlspecialchars(mysqli_real_escape_string($db, $_POST["name"])));
     $phone = strip_tags(htmlspecialchars(mysqli_real_escape_string($db, $_POST["phone"])));
+    $sum = getBasketSum();
     if (is_auth()) {
-        if (executeQuery("INSERT INTO `orders` (`name`, `phone`, `session_id`, `login`) VALUES ('{$name}', '{$phone}', '{$session}', '{$_SESSION["login"]}')")) {
-            header("Location: /basket/?message=OK");
+        if (executeQuery("INSERT INTO `orders` (`name`, `phone`, `session_id`, `login`, `sum`) VALUES ('{$name}',
+ '{$phone}', '{$session}', '{$_SESSION["login"]}', {$sum})")) {
+            header("Location: /catalog/?message=OK");
             session_regenerate_id();
         } else {
-            header("Location: /basket/?message=error");
+            header("Location: /catalog/?message=error");
         }
     } else {
-        if (executeQuery("INSERT INTO `orders` (`name`, `phone`, `session_id`) VALUES ('{$name}', '{$phone}', '{$session}')")) {
-            header("Location: /basket/?message=OK");
+        if (executeQuery("INSERT INTO `orders` (`name`, `phone`, `session_id`, `sum`) VALUES ('{$name}', '{$phone}', '{$session}', {$sum})")) {
+            header("Location: /catalog/?message=OK");
             session_regenerate_id();
         } else {
-            header("Location: /basket/?message=error");
+            header("Location: /catalog/?message=error");
         }
     }
 
@@ -43,8 +45,13 @@ orders.login = '{$login}' AND orders.session_id=basket.session_id AND basket.goo
 function getOrderDetail($id)
 {
     $id = (int) $id;
-    return getAssocResult("SELECT orders.session_id, basket.quantity, goods.id good_id
+    return getAssocResult("SELECT orders.session_id, basket.quantity, goods.id good_id, goods.prodName
   FROM basket, goods, orders WHERE basket.good_id=goods.id AND basket.session_id = orders.session_id AND orders.id = {$id}");
+}
+
+function getOrderSum($id) {
+    $id = (int) $id;
+    return getAssocResult("SELECT orders.sum FROM orders WHERE orders.id = {$id}")[0]["sum"];
 }
 
 function acceptOrder($id) {

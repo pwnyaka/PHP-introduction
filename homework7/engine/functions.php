@@ -95,6 +95,7 @@ function prepareVariables($page, $action) {
         case 'detail':
             if (!is_admin()) Die('Нет прав!');
             $params['basket'] = getOrderDetail($_GET['id']);
+            $params['sum'] = getOrderSum($_GET['id']);
             break;
 
         case 'api':
@@ -140,6 +141,7 @@ function prepareVariables($page, $action) {
                         break;
                 }
             }
+            break;
 
         case 'users':
             $params["users"] = getUsers();
@@ -151,13 +153,6 @@ function prepareVariables($page, $action) {
             break;
 
         case 'catalog':
-            if ($_POST["send"]) {
-                $params["error"] = loadImage();
-            }
-            $params["images"] = getDbContent();
-            break;
-
-        case 'basket':
             switch ($_GET["message"]) {
                 case 'OK':
                     $params["message"] = "Благодарим за оформление заказа!";
@@ -167,6 +162,13 @@ function prepareVariables($page, $action) {
                     $params["message"] = "При оформлении заказа произошла ошибка!";
                     break;
             }
+            if ($_POST["send"]) {
+                $params["error"] = loadImage();
+            }
+            $params["images"] = getDbContent();
+            break;
+
+        case 'basket':
             $params["basketSum"] = getBasketSum();
             $params["basket"] = getBasket();
             if ($action == 'addorder') {
