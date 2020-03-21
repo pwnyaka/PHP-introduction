@@ -29,7 +29,6 @@
     <input required type="text" name="name" placeholder="Имя">
     <input required type="text" name="phone" placeholder="Телефон">
     <input type="submit" value="Оформить заказ">
-    <?=$message?>
   </form>
 </div>
 <script src="js/basket.js"></script>
